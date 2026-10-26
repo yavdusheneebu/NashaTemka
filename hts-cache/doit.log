@@ -1,0 +1,8 @@
+-q -%i -w http://kseniafondadmin:JGdfv82945JGUYBf!@kseniya.fund -O "\"/Users/a1234/websites/Fond\"" -%P -N0 -s2 -p3 -D -a -K0 -c4 -%k -A100000 -F "Mozilla/5.0 (compatible; HTTrack/3.x; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -u1 -%s -%u -f2 -%I0 -%f
+File generated automatically on Mon, 26 Oct 2026 16:24:44, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

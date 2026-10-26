@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.yandex.ru	TRUE	/	FALSE	1999999999	bh	YILx/NYGagrcytW6D9q9tbYP
+.vk.com	TRUE	/	FALSE	1999999999	remixir	DELETED
+.vk.com	TRUE	/	FALSE	1999999999	remixlang	3
+.vk.com	TRUE	/	FALSE	1999999999	remixstlid	9080773786352915813_PONCtcWvo79AyGu61qoc0MISbqFl0Nf3eKBaZzLyqbP
+.mail.ru	TRUE	/	FALSE	1999999999	FTID	2T5hD423lOoh:1793013893:0:::
+widget.cloudpayments.ru	TRUE	/	FALSE	1999999999	widget-cp-ru	widget-next|6ad8906ddcfdc46f0ceb7095
+widget.cloudpayments.ru	TRUE	/	FALSE	1999999999	SameSite	None
+kseniya.fund	TRUE	/	FALSE	1999999999	_kseniya_session	Tb5s6SfaFQobuUlgWDLKTVAFGyzeRCRVF%2FCj7pZ556w2lr3fInZUBVrVzFw38PfbXbiOXGlJuQCL%2FgBTCH%2Fijw3Un1m5h%2Bn5cplKb0LGhdFbM5FlR8uAuqJU%2FzeZIwSo%2FLFmSxyn6eTzu2REyMEjTlxCaxF72k0pTdEGJ05jkfCGNcl0P9PWfaHY7mNxgUxxtxzmCUBTmMIcXEvmCYR7EBMrhwZf89PnTmU7KunqIcRjHijaASuzubthQsi%2BNA26y2jDWVqc5bqr4fOr5rvqusxgwiLRxiTc--nQyMblpCTl5h8J84--2%2BIZGXy9UrEl8xBrszZSVw%3D%3D
+kseniya.fund	TRUE	/	FALSE	1999999999	samesite	lax
+
